@@ -1,0 +1,16 @@
+{
+  "source_photo": "docs/hardware/photos/notion-53dd11c2f5456bccee28ca13f87c8e14c34bc024ef9bd5ba674f5568d43f3585.jpg",
+  "source_sha256": "d2ce9bc4314ceb8eeb36c9285ef4941b03e9b398e60de26f0a65c7effd828f6e",
+  "annotation": "docs/hardware/annotations/force-band-reverse-pads.png",
+  "annotation_sha256": "f474af03813774e0f4e21fe2fe63a611f8bf5a6a4e71895c9e3530dc2f34ec1a",
+  "method": "Image generation annotation, visually checked against the original; P2 marker corrected before saving.",
+  "status": "Illustrative pad identification only. No electrical measurements or debugger connector mapping verified.",
+  "pad_labels": {
+    "P1": "GND",
+    "P2": "3V3",
+    "P3": "SWCLK",
+    "P4": "SWDIO"
+  },
+  "source_original_sha256": "53dd11c2f5456bccee28ca13f87c8e14c34bc024ef9bd5ba674f5568d43f3585",
+  "source_publication_note": "GPS/owner/serial metadata removed from the source photo for publication without recompression; decoded pixels and orientation match the original."
+}

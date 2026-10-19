@@ -1,0 +1,20 @@
+# Local tooling and editor outputs
+node_modules/
+.npm/
+.DS_Store
+*.swp
+__pycache__/
+
+# Local credentials and machine-specific configuration
+.env
+.env.*
+*.pem
+*.key
+
+# Generated firmware outputs
+firmware/build/
+firmware/.pio/
+
+# Large or sensitive local hardware data; commit metadata separately
+captures/raw/
+captures/firmware-dumps/

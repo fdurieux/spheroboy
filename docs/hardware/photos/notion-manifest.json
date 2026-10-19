@@ -1,0 +1,343 @@
+{
+  "version": 1,
+  "page_id": "3feb8589-dab0-80be-8a6c-da3d72410d28",
+  "photos": [
+    {
+      "block_id": "3feb8589-dab0-80e3-899f-e71fdad68a91",
+      "last_edited_time": "2026-10-19T18:55:00.000Z",
+      "filename": "notion-3550f5ded18391aed3ecc2e0ddef4efb5d62957787ae6f40a37d9b964fe30f9a.jpg",
+      "caption": "",
+      "sha256": "af30cd8ec517e7a06c6d5ae80e4725ad49fd1d77cf3f7a9dbdbf0c0b9ad744b4",
+      "size_bytes": 1700436,
+      "source_sha256": "3550f5ded18391aed3ecc2e0ddef4efb5d62957787ae6f40a37d9b964fe30f9a",
+      "source_size_bytes": 1700723,
+      "publication_sanitization": {
+        "date": "2026-10-19",
+        "tool": "ExifTool 13.59",
+        "metadata_removed_if_present": [
+          "GPS/location",
+          "owner",
+          "serial",
+          "image unique ID"
+        ],
+        "decoded_pixels_unchanged": true,
+        "orientation_unchanged": true,
+        "icc_profile_unchanged": true,
+        "frames_checked": 2
+      },
+      "decoded_pixel_sha256": [
+        {
+          "mode": "RGB",
+          "size": [
+            4032,
+            3024
+          ],
+          "sha256": "1f93b15a3489c10a32835f1b8f9e37fbfe8e2d3b824c5d934e51c12328dadbf1"
+        },
+        {
+          "mode": "L",
+          "size": [
+            2016,
+            1512
+          ],
+          "sha256": "e3f062cc27a54ba518887ba3a3893a591bf8f9d0c418296629f6d062e41bf7bd"
+        }
+      ]
+    },
+    {
+      "block_id": "3feb8589-dab0-8020-9709-ea1d8a8d23d9",
+      "last_edited_time": "2026-10-19T18:55:00.000Z",
+      "filename": "notion-53dd11c2f5456bccee28ca13f87c8e14c34bc024ef9bd5ba674f5568d43f3585.jpg",
+      "caption": "",
+      "sha256": "d2ce9bc4314ceb8eeb36c9285ef4941b03e9b398e60de26f0a65c7effd828f6e",
+      "size_bytes": 1656848,
+      "source_sha256": "53dd11c2f5456bccee28ca13f87c8e14c34bc024ef9bd5ba674f5568d43f3585",
+      "source_size_bytes": 1657136,
+      "publication_sanitization": {
+        "date": "2026-10-19",
+        "tool": "ExifTool 13.59",
+        "metadata_removed_if_present": [
+          "GPS/location",
+          "owner",
+          "serial",
+          "image unique ID"
+        ],
+        "decoded_pixels_unchanged": true,
+        "orientation_unchanged": true,
+        "icc_profile_unchanged": true,
+        "frames_checked": 2
+      },
+      "decoded_pixel_sha256": [
+        {
+          "mode": "RGB",
+          "size": [
+            4032,
+            3024
+          ],
+          "sha256": "564ba43a62f0a2ed1477fc15b40b5e618044acb23cdb8433205293457e205b64"
+        },
+        {
+          "mode": "L",
+          "size": [
+            2016,
+            1512
+          ],
+          "sha256": "82a0f6c5e513bcba91fc2e4902983e27e90462950487815a6a56275582aaabda"
+        }
+      ]
+    },
+    {
+      "block_id": "3feb8589-dab0-802f-aeba-de1b101ed341",
+      "last_edited_time": "2026-10-19T19:32:00.000Z",
+      "filename": "notion-ebf5392cf414c558350cb9208f9eda7e486806c65ca3c8dd85e455796494b271.jpg",
+      "caption": "",
+      "sha256": "8c2aaeef476891dda9d7202fd4ecd8594bc5cbb2f33e0495b451317cd47524ce",
+      "size_bytes": 1009124,
+      "source_sha256": "ebf5392cf414c558350cb9208f9eda7e486806c65ca3c8dd85e455796494b271",
+      "source_size_bytes": 1009412,
+      "publication_sanitization": {
+        "date": "2026-10-19",
+        "tool": "ExifTool 13.59",
+        "metadata_removed_if_present": [
+          "GPS/location",
+          "owner",
+          "serial",
+          "image unique ID"
+        ],
+        "decoded_pixels_unchanged": true,
+        "orientation_unchanged": true,
+        "icc_profile_unchanged": true,
+        "frames_checked": 2
+      },
+      "decoded_pixel_sha256": [
+        {
+          "mode": "RGB",
+          "size": [
+            4032,
+            3024
+          ],
+          "sha256": "4d314e7a61a00bd3841941f66a1e74c57799ffd4a348f81646c5b7d08b468396"
+        },
+        {
+          "mode": "L",
+          "size": [
+            2016,
+            1512
+          ],
+          "sha256": "2e6ac819fbeb10a9cfda11094b95978167c76cd3a34bbbe0484035f3c45943b4"
+        }
+      ]
+    },
+    {
+      "block_id": "3feb8589-dab0-8071-819c-f3098bb8ce6c",
+      "last_edited_time": "2026-10-19T19:32:00.000Z",
+      "filename": "notion-1302842f4cb337b6ba910e472c81b469da36f2065f739eab0ea66d3ffe53bfc6.jpg",
+      "caption": "",
+      "sha256": "475232c464c9cdcc04eb080c141b6e5d8604945ce325d9e73013044e442aa09a",
+      "size_bytes": 1125158,
+      "source_sha256": "1302842f4cb337b6ba910e472c81b469da36f2065f739eab0ea66d3ffe53bfc6",
+      "source_size_bytes": 1125445,
+      "publication_sanitization": {
+        "date": "2026-10-19",
+        "tool": "ExifTool 13.59",
+        "metadata_removed_if_present": [
+          "GPS/location",
+          "owner",
+          "serial",
+          "image unique ID"
+        ],
+        "decoded_pixels_unchanged": true,
+        "orientation_unchanged": true,
+        "icc_profile_unchanged": true,
+        "frames_checked": 2
+      },
+      "decoded_pixel_sha256": [
+        {
+          "mode": "RGB",
+          "size": [
+            4032,
+            3024
+          ],
+          "sha256": "ee4259f19124f0b4b051b8602217f72bab2a7542049f08acfadc51cddce191b7"
+        },
+        {
+          "mode": "L",
+          "size": [
+            2016,
+            1512
+          ],
+          "sha256": "713f3278c301614e231cb067f1651a60eb94503dbffa7116a18df56aa51c123c"
+        }
+      ]
+    },
+    {
+      "block_id": "3feb8589-dab0-8024-8ee1-c053ca3fdc10",
+      "last_edited_time": "2026-10-19T19:32:00.000Z",
+      "filename": "notion-cdc6a89ca5c02d1ae4bb1f523fd93005035ef17c29d9ef78b83f164f42328942.jpg",
+      "caption": "",
+      "sha256": "94cc9c84e771efb391fd1200ee7b6aa6fce39d928c1981442b6cb1b4a15ac39f",
+      "size_bytes": 1180028,
+      "source_sha256": "cdc6a89ca5c02d1ae4bb1f523fd93005035ef17c29d9ef78b83f164f42328942",
+      "source_size_bytes": 1180316,
+      "publication_sanitization": {
+        "date": "2026-10-19",
+        "tool": "ExifTool 13.59",
+        "metadata_removed_if_present": [
+          "GPS/location",
+          "owner",
+          "serial",
+          "image unique ID"
+        ],
+        "decoded_pixels_unchanged": true,
+        "orientation_unchanged": true,
+        "icc_profile_unchanged": true,
+        "frames_checked": 2
+      },
+      "decoded_pixel_sha256": [
+        {
+          "mode": "RGB",
+          "size": [
+            4032,
+            3024
+          ],
+          "sha256": "779cb947ed07a53bae44ee694868d83016ab53c360d1f7f6ee53d9ad8e52e2c8"
+        },
+        {
+          "mode": "L",
+          "size": [
+            2016,
+            1512
+          ],
+          "sha256": "38b1ce92a83f111733166047c496ea4b6ec37974bbc4c3016e2f497d07ef11b4"
+        }
+      ]
+    },
+    {
+      "block_id": "3feb8589-dab0-8059-893d-c9924846ee11",
+      "last_edited_time": "2026-10-19T19:51:00.000Z",
+      "filename": "notion-dfebf588de7cc1753da37ff4a4061771f3d1ad273d4496f34a826114a46e76a8.jpg",
+      "caption": "",
+      "sha256": "730c68ea67ccc1885c8a881ff1d4362bfc29ee102c2d6ef0e9066872710949e7",
+      "size_bytes": 1975283,
+      "source_sha256": "dfebf588de7cc1753da37ff4a4061771f3d1ad273d4496f34a826114a46e76a8",
+      "source_size_bytes": 1975570,
+      "publication_sanitization": {
+        "date": "2026-10-19",
+        "tool": "ExifTool 13.59",
+        "metadata_removed_if_present": [
+          "GPS/location",
+          "owner",
+          "serial",
+          "image unique ID"
+        ],
+        "decoded_pixels_unchanged": true,
+        "orientation_unchanged": true,
+        "icc_profile_unchanged": true,
+        "frames_checked": 2
+      },
+      "decoded_pixel_sha256": [
+        {
+          "mode": "RGB",
+          "size": [
+            4032,
+            3024
+          ],
+          "sha256": "8726cfa24d5c06cd850d35f580ff08ddb90b7412c49cdbc77f0f1e55f286f345"
+        },
+        {
+          "mode": "L",
+          "size": [
+            2016,
+            1512
+          ],
+          "sha256": "e3b0aadf8616f43221809735a8d66d48313826d70e3936347c9fbfdaed20535c"
+        }
+      ]
+    },
+    {
+      "block_id": "3feb8589-dab0-80b4-b31a-c759b8f06ea7",
+      "last_edited_time": "2026-10-19T19:51:00.000Z",
+      "filename": "notion-023870ecd11f4d0fcab1104ab9cf3a57598872ae4e73efec61935c6305f431be.jpg",
+      "caption": "",
+      "sha256": "fc97f56c0cc5718e90e5fc6705fdab83be4818ef6e0028f2d96764c7fb869f67",
+      "size_bytes": 1909956,
+      "source_sha256": "023870ecd11f4d0fcab1104ab9cf3a57598872ae4e73efec61935c6305f431be",
+      "source_size_bytes": 1910244,
+      "publication_sanitization": {
+        "date": "2026-10-19",
+        "tool": "ExifTool 13.59",
+        "metadata_removed_if_present": [
+          "GPS/location",
+          "owner",
+          "serial",
+          "image unique ID"
+        ],
+        "decoded_pixels_unchanged": true,
+        "orientation_unchanged": true,
+        "icc_profile_unchanged": true,
+        "frames_checked": 2
+      },
+      "decoded_pixel_sha256": [
+        {
+          "mode": "RGB",
+          "size": [
+            4032,
+            3024
+          ],
+          "sha256": "a6bfbf2cdbc5e8adcd5af9c7ece1292d627e18bc18fa739589e03e031f9d7f36"
+        },
+        {
+          "mode": "L",
+          "size": [
+            2016,
+            1512
+          ],
+          "sha256": "ea21c8f1fd1803e3df7bc04164c8373ccddca722aa6b4a3b005b4a3be665b1b3"
+        }
+      ]
+    },
+    {
+      "block_id": "3feb8589-dab0-800c-8a75-d6fd7dfda72b",
+      "last_edited_time": "2026-10-19T19:51:00.000Z",
+      "filename": "notion-1f7df1b642478846d18003fc0c2ea6a052d015087b86970f8ce5f1e36c54b0b8.jpg",
+      "caption": "",
+      "sha256": "3c4f695525d2f35fbfe77c3a1050a4803188f83cfa5a2d1ac29b98768bc4fd8d",
+      "size_bytes": 1975631,
+      "source_sha256": "1f7df1b642478846d18003fc0c2ea6a052d015087b86970f8ce5f1e36c54b0b8",
+      "source_size_bytes": 1975918,
+      "publication_sanitization": {
+        "date": "2026-10-19",
+        "tool": "ExifTool 13.59",
+        "metadata_removed_if_present": [
+          "GPS/location",
+          "owner",
+          "serial",
+          "image unique ID"
+        ],
+        "decoded_pixels_unchanged": true,
+        "orientation_unchanged": true,
+        "icc_profile_unchanged": true,
+        "frames_checked": 2
+      },
+      "decoded_pixel_sha256": [
+        {
+          "mode": "RGB",
+          "size": [
+            4032,
+            3024
+          ],
+          "sha256": "329813caaf16aefdacb1ea26b9762d90d5c864437305060a4e5db5948e26e9e1"
+        },
+        {
+          "mode": "L",
+          "size": [
+            2016,
+            1512
+          ],
+          "sha256": "36f17cade4a304e91c75b9e5a2ba583f35aa85bf2e72afdfd9efc3ed084cc3c5"
+        }
+      ]
+    }
+  ],
+  "publication_note": "Notion filenames retain source download hashes. sha256/size_bytes describe the metadata-sanitized publication files; source_sha256/source_size_bytes describe original downloads retained only in the private recovery archive. Future new/changed imports require metadata review before publication."
+}

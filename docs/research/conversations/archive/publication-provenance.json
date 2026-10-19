@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-19",
+  "note": "Conversation message content and Markdown transcripts are preserved. Publication HTML removes anonymous visitor/client-session bootstrap data and CSP nonces. Token-bearing and signed query fields are removed from search/source metadata URLs; host, path, ordinary query fields, and source attachment IDs remain. Untouched raw imports are retained outside Git only.",
+  "records": [
+    {
+      "filename": "conversation-1.md",
+      "source_sha256": "01357ef6b5fc258fc29e865c1a666dfe5a852ec2d508c0e762afc0b66989469f",
+      "published_sha256": "01357ef6b5fc258fc29e865c1a666dfe5a852ec2d508c0e762afc0b66989469f",
+      "message_content_unchanged": true,
+      "metadata_sanitized": false
+    },
+    {
+      "filename": "archive/conversation-1.json",
+      "source_sha256": "b2ba280d55125dc6bbd5daf4483167f4781da6852f702a9bfb76c1e889003d45",
+      "published_sha256": "31f92ef33a14e26c84d8f9e34cf4d20545198eb090d825ef9e80963338784f47",
+      "message_content_unchanged": true,
+      "metadata_sanitized": true
+    },
+    {
+      "filename": "archive/conversation-1.html",
+      "source_sha256": "54bbc3705b061c7e21e75da571a74cc66d9483f9c400f8d6edd193fe8b1cb1fd",
+      "published_sha256": "e97846d13b2a7cca7bab7d1d81a684efc3e72825d72e638da84d5af57776d6ce",
+      "message_content_unchanged": true,
+      "metadata_sanitized": true
+    },
+    {
+      "filename": "conversation-2.md",
+      "source_sha256": "1d882638af70d264e8034fa1cde8212e557fff67e3cf515b5fd3ffc2a80631f7",
+      "published_sha256": "1d882638af70d264e8034fa1cde8212e557fff67e3cf515b5fd3ffc2a80631f7",
+      "message_content_unchanged": true,
+      "metadata_sanitized": false
+    },
+    {
+      "filename": "archive/conversation-2.json",
+      "source_sha256": "ba115dc57e458867c180c85918f3e4a4034b2525c7a2ef7958a8ec107654f344",
+      "published_sha256": "696d78ad93943eb8d8a9cc2e2919376152ab7b909fbdacd25fd174ae9976e68c",
+      "message_content_unchanged": true,
+      "metadata_sanitized": true
+    },
+    {
+      "filename": "archive/conversation-2.html",
+      "source_sha256": "41c4f43a1d5deb253804932b73941ceca8b94d1d307ad6ae16140377c8ec073d",
+      "published_sha256": "83882b62f1eebf938e55851df793065b98a151563b0e16770db8390cfb124428",
+      "message_content_unchanged": true,
+      "metadata_sanitized": true
+    }
+  ]
+}
