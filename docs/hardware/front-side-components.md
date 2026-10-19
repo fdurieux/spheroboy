@@ -2,7 +2,7 @@
 
 Hardware: [SB-FB-001](force-band-01.md). Photo review: 2026-10-19.
 
-The inventory uses the [untouched front-side overview](photos/notion-3550f5ded18391aed3ecc2e0ddef4efb5d62957787ae6f40a37d9b964fe30f9a.jpg), displayed with the USB connector at the left, and the [U7/U8 close-up](photos/notion-cdc6a89ca5c02d1ae4bb1f523fd93005035ef17c29d9ef78b83f164f42328942.jpg). Identifying a physical component does not establish its board wiring or GPIO assignment. No physical measurements were performed.
+The inventory uses the [front-side overview](photos/notion-3550f5ded18391aed3ecc2e0ddef4efb5d62957787ae6f40a37d9b964fe30f9a.jpg), displayed with the USB connector at the left, and the [U7/U8 close-up](photos/notion-cdc6a89ca5c02d1ae4bb1f523fd93005035ef17c29d9ef78b83f164f42328942.jpg). Published photos retain the original pixels with private metadata removed, as described in [publication checks](../publication-checks.md). Identifying a physical component does not establish its board wiring or GPIO assignment. No physical measurements were performed.
 
 ## Main integrated circuits
 

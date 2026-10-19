@@ -7,6 +7,8 @@ The project is in hardware discovery. The MCU is confirmed as an nRF52832-QFAA w
 ## Start here
 
 - [Project brief](docs/project-brief.md): goals, evidence, assumptions, and open questions.
+- [Game implementation plans](docs/games/README.md): shared platform, Pong, Breakout, and Pac-Man, with recovered images and acceptance criteria.
+- [Spheroboy Games notebook](https://app.notion.com/p/3feb8589dab08166b0e8d8b0b10e6e1a): private Notion overview and game pages; workspace access is required.
 - [Research conversations](docs/research/conversations/README.md): two imported conversations and their original archives.
 - [Hardware record](docs/hardware/README.md): component candidates, measurements, photographs, and pin mapping.
 - [Front-side components](docs/hardware/front-side-components.md): identified chips, connectors, controls, and unresolved parts.
@@ -26,6 +28,7 @@ docs/
   notion-notebook.md            Notion page template
   research/conversations/       Markdown transcripts and HTML/JSON archives
   hardware/                    Hardware findings and evidence conventions
+  games/                       Shared platform and game specifications, sources, and references
   decisions/                   Decision records
 firmware/                      Future embedded implementation
 tools/                         Future capture analysis and development tools
@@ -53,7 +56,7 @@ TASK-1's evidence collection and TASK-2's MCU identification are complete. Next 
 
 Use Notion for the project overview, idea collection, progress photos, and informal lab journal. Use Git for technical records, evidence metadata, decisions, and code. Use Backlog.md for task status. Link between them rather than maintaining duplicate task boards or competing technical specifications.
 
-The project notebook template is prepared locally. Import its Markdown into Notion and replace its link placeholders with your repository URLs. Once imported, maintain the notebook in Notion; the template remains a starting point. A separate [photo inbox](docs/notion-photo-inbox.md) is connected for read access, with an on-request importer and its current transfer status documented there.
+The [Games notebook](https://app.notion.com/p/3feb8589dab08166b0e8d8b0b10e6e1a) is created in Notion and links to the game specifications. The generic notebook template remains available as a starting point. A separate [photo inbox](docs/notion-photo-inbox.md) is connected for read access, with an on-request importer and its current transfer status documented there. See [documentation ownership](docs/games/documentation-workflow.md) and the [reconciliation record](docs/games/reconciliation.md) for how the cloud records and game plans fit together.
 
 ## Working with ChatGPT and Codex
 
@@ -61,4 +64,4 @@ Either can help with research and hardware reasoning. Codex can also maintain th
 
 ## Development status
 
-There is no application build or test suite yet. The firmware toolchain will be selected after the MCU, debug access, and first implementation target are established. Do not treat example commands or compatibility claims in the archived conversations as verified procedures for this board.
+There is no firmware application build yet. The photo importer has an automated test suite, run with `python3 -B -m unittest discover -s tools -p 'test_*.py' -v`. The firmware toolchain will be selected after the MCU, debug access, and first implementation target are established. Do not treat example commands or compatibility claims in the archived conversations as verified procedures for this board.

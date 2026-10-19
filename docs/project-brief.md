@@ -2,11 +2,12 @@
 
 ## Goal
 
-Investigate repurposing a Sphero Force Band as a general-purpose programmable wrist computer. The original discussion expresses interest in Lua and asks whether additional RAM would help. A small display and motion-controlled Pong or Breakout are proposed milestones in the second conversation, rather than a finalized hardware specification.
+Investigate repurposing a Sphero Force Band as a general-purpose programmable wrist computer. The owner chose a **standalone wrist screen mounted on the retained Force Band casing**, with wrist gestures as game controls; see [decision 0003](decisions/0003-standalone-wrist-display.md). The discussion expresses interest in Lua and asks whether additional RAM would help. Pong, Breakout, and a compact Pac-Man adaptation are analysed in the [game plans](games/README.md). The exact display, interface, runtime, and rules remain proposals to evaluate.
 
 ## What is established
 
 - Two shared conversations have been imported into [the research archive](research/conversations/README.md).
+- The newer game discussion is preserved as a [six-message source extract](games/source-inventory.md), with all three original game reference images. This supplements the older full import, which stops before those game turns.
 - The first discussion explores several devices before discussing a Force Band. Earlier toothbrush observations must not be assigned to the Force Band.
 - The user has selected their existing Sphero Force Band for modification, recorded as [SB-FB-001](hardware/force-band-01.md).
 - The user owns a Saleae Logic 8, an Atmel-ICE, and an Atmel Debug Adapter Shield. New [equipment photographs](hardware/debug-equipment.md) identify the shield as ATARD-DBGADPT with assembly label A09-2340/02 and show the Atmel-ICE with its cable. Software/firmware versions and electrical cable mapping remain unrecorded; compatibility still requires verification.
@@ -31,7 +32,7 @@ The MCU capacity is now based on the photographed `QFAAB0` marking: Nordic expli
 
 ## Decisions
 
-The accepted [documentation workflow](decisions/0001-project-records.md) uses Notion as a notebook, Git as the technical record, and Backlog.md for tasks. The owner has [chosen to modify the existing Force Band](decisions/0002-modify-existing-force-band.md). No firmware SDK, display, runtime, or programming procedure has been selected.
+The accepted [documentation workflow](decisions/0001-project-records.md) uses Notion as a notebook, Git as the technical record, and Backlog.md for tasks. The owner has [chosen to modify the existing Force Band](decisions/0002-modify-existing-force-band.md) and [selected the standalone wrist-screen direction](decisions/0003-standalone-wrist-display.md). No exact display module, firmware SDK, runtime version, or programming procedure has been selected.
 
 ## Open questions
 

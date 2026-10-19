@@ -17,4 +17,4 @@ Spheroboy combines exploratory hardware research, archived conversations, and fu
 
 ## Consequences
 
-Codex can maintain project context and tasks through repository files. ChatGPT remains useful for exploration when supplied with relevant context. Useful results from either assistant should be incorporated with evidence. The local Notion template needs importing manually; no synchronization or external Notion write is configured.
+Codex can maintain project context and tasks through repository files. ChatGPT remains useful for exploration when supplied with relevant context. Useful results from either assistant should be incorporated with evidence. The [Games notebook](https://app.notion.com/p/3feb8589dab08166b0e8d8b0b10e6e1a) and its four child pages have been created in Notion; the generic notebook template remains available. Links are maintained explicitly, with no automatic two-way synchronization.
