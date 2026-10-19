@@ -1,0 +1,44 @@
+{
+  "prepared_on": "2026-10-19",
+  "root": {
+    "id": "3feb8589-dab0-8166-b0e8-d8b0b10e6e1a",
+    "url": "https://app.notion.com/p/3feb8589dab08166b0e8d8b0b10e6e1a",
+    "title": "SpheroBoy"
+  },
+  "visibility": "Private project hub with platform/game pages",
+  "source_conversation": "https://chatgpt.com/share/6ad6802b-8b4c-83ed-b133-b493de53a773",
+  "repository": {
+    "url": "https://github.com/fdurieux/spheroboy",
+    "branch": "codex/reconcile-game-planning",
+    "base_branch": "main",
+    "cloud_snapshot_commit": "9538f705a2b79c029eb60feef01582f5586e691b",
+    "publication_status": "Proposed on the reconciliation branch; see GitHub for review and merge state.",
+    "pull_request": "https://github.com/fdurieux/spheroboy/pull/1"
+  },
+  "pages": [
+    {
+      "id": "3feb8589-dab0-813f-a697-e84ed46c4c1c",
+      "url": "https://app.notion.com/p/3feb8589dab0813fa697e84ed46c4c1c?pvs=204",
+      "title": "Shared Platform",
+      "technical_record": "shared-platform.md"
+    },
+    {
+      "id": "3feb8589-dab0-81f2-b0f4-fe6bf2141411",
+      "url": "https://app.notion.com/p/3feb8589dab081f2b0f4fe6bf2141411?pvs=204",
+      "title": "Pong",
+      "technical_record": "pong.md"
+    },
+    {
+      "id": "3feb8589-dab0-814c-9af7-f57b45fca308",
+      "url": "https://app.notion.com/p/3feb8589dab0814c9af7f57b45fca308?pvs=204",
+      "title": "Breakout",
+      "technical_record": "breakout.md"
+    },
+    {
+      "id": "3feb8589-dab0-81d4-8105-cd0c3c101b0b",
+      "url": "https://app.notion.com/p/3feb8589dab081d48105cd0c3c101b0b?pvs=204",
+      "title": "Pac-Man",
+      "technical_record": "pacman.md"
+    }
+  ]
+}
