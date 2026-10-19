@@ -2,9 +2,9 @@
 
 ## Notion
 
-Use the Spheroboy Games hub and four child pages for the intended player experience, recovered concept references, open product choices, relative scope, and navigation. Each game page includes its recovered image and a source link. The Shared Platform page explains cross-game dependencies in accessible terms.
+Use the SpheroBoy project hub and its platform/game pages for the intended player experience, recovered concept references, open product choices, relative scope, and navigation. Each game page includes its recovered image and a source link. The Shared Platform page explains cross-game dependencies in accessible terms.
 
-Keep the game notebook private while drafting. The existing Photo inbox remains a separate upload source and is linked without moving or renaming it.
+Keep the project notebook private while drafting. The Photo inbox is the upload source for hardware evidence; keep its photographs separate from game runtime assets.
 
 ## Repository
 

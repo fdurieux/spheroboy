@@ -3,16 +3,17 @@
   "root": {
     "id": "3feb8589-dab0-8166-b0e8-d8b0b10e6e1a",
     "url": "https://app.notion.com/p/3feb8589dab08166b0e8d8b0b10e6e1a",
-    "title": "Spheroboy Games"
+    "title": "SpheroBoy"
   },
-  "visibility": "Private draft hub with child pages",
+  "visibility": "Private project hub with platform/game pages",
   "source_conversation": "https://chatgpt.com/share/6ad6802b-8b4c-83ed-b133-b493de53a773",
   "repository": {
     "url": "https://github.com/fdurieux/spheroboy",
     "branch": "codex/reconcile-game-planning",
     "base_branch": "main",
     "cloud_snapshot_commit": "9538f705a2b79c029eb60feef01582f5586e691b",
-    "publication_status": "Proposed on the reconciliation branch; see GitHub for review and merge state."
+    "publication_status": "Proposed on the reconciliation branch; see GitHub for review and merge state.",
+    "pull_request": "https://github.com/fdurieux/spheroboy/pull/1"
   },
   "pages": [
     {

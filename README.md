@@ -8,7 +8,7 @@ The project is in hardware discovery. The MCU is confirmed as an nRF52832-QFAA w
 
 - [Project brief](docs/project-brief.md): goals, evidence, assumptions, and open questions.
 - [Game implementation plans](docs/games/README.md): shared platform, Pong, Breakout, and Pac-Man, with recovered images and acceptance criteria.
-- [Spheroboy Games notebook](https://app.notion.com/p/3feb8589dab08166b0e8d8b0b10e6e1a): private Notion overview and game pages; workspace access is required.
+- [SpheroBoy notebook](https://app.notion.com/p/3feb8589dab08166b0e8d8b0b10e6e1a): private Notion overview and game pages; workspace access is required.
 - [Research conversations](docs/research/conversations/README.md): two imported conversations and their original archives.
 - [Hardware record](docs/hardware/README.md): component candidates, measurements, photographs, and pin mapping.
 - [Front-side components](docs/hardware/front-side-components.md): identified chips, connectors, controls, and unresolved parts.
@@ -56,7 +56,7 @@ TASK-1's evidence collection and TASK-2's MCU identification are complete. Next 
 
 Use Notion for the project overview, idea collection, progress photos, and informal lab journal. Use Git for technical records, evidence metadata, decisions, and code. Use Backlog.md for task status. Link between them rather than maintaining duplicate task boards or competing technical specifications.
 
-The [Games notebook](https://app.notion.com/p/3feb8589dab08166b0e8d8b0b10e6e1a) is created in Notion and links to the game specifications. The generic notebook template remains available as a starting point. A separate [photo inbox](docs/notion-photo-inbox.md) is connected for read access, with an on-request importer and its current transfer status documented there. See [documentation ownership](docs/games/documentation-workflow.md) and the [reconciliation record](docs/games/reconciliation.md) for how the cloud records and game plans fit together.
+The [SpheroBoy notebook](https://app.notion.com/p/3feb8589dab08166b0e8d8b0b10e6e1a) is created in Notion and links to the game specifications. The generic notebook template remains available as a starting point. A separate [photo inbox](docs/notion-photo-inbox.md) is connected for read access, with an on-request importer and its current transfer status documented there. See [documentation ownership](docs/games/documentation-workflow.md) and the [reconciliation record](docs/games/reconciliation.md) for how the cloud records and game plans fit together.
 
 ## Working with ChatGPT and Codex
 

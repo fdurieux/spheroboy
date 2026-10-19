@@ -1,6 +1,6 @@
 # Cloud and game-planning reconciliation
 
-Date: 2026-10-19. Work record: TASK-10 in the [existing backlog](../../backlog/README.md).
+Date: 2026-10-19. Work record: TASK-10 in the [existing backlog](../../backlog/README.md). Review: [PR #1](https://github.com/fdurieux/spheroboy/pull/1).
 
 ## Source snapshot
 
@@ -26,5 +26,7 @@ The three game reference images were recovered from the resolved image records i
 ## Verification scope
 
 Verify the combined checkout using the existing importer test suite, maintained Markdown links, JSON parsing, photo hashes/full decoding/GPS checks, and annotation/manual/archive provenance. Review the staged publication set for credentials, session data, and unrelated local files. TASK-10 records the observed results and the PR link after publication.
+
+The combined staged tree passed all 11 importer tests, 184 maintained Markdown-link checks, JSON parsing, and hash/full-decode/GPS checks for 24 hardware photos and three game images. Annotation, manufacturer-manual, and all six archive-publication hashes match their records. The publication credential-pattern scan and reconciliation whitespace checks also passed. The Notion project hub and four game/platform pages were read back after updating their specification and PR links; all three game images remain attached. Separate local PCB-layout edits were excluded from this PR and left untouched.
 
 There is no firmware build, working game, display integration, measured board pinout, or new physical-device validation in this PR. Those remain future work behind the documented prerequisites.
