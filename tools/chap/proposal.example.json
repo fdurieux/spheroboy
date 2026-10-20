@@ -1,0 +1,17 @@
+{
+  "kind": "project_decision",
+  "context": {
+    "backlog_task": "TASK-3",
+    "record_type": "proposal",
+    "supersedes": null
+  },
+  "draft": {
+    "subject": "Example only: document a candidate PCB connection",
+    "proposal": "Record the connection as a hypothesis pending a continuity measurement.",
+    "evidence": [
+      {"reference": "docs/hardware/pad-reference.md", "revision": "REPLACE_WITH_FULL_COMMIT_SHA"}
+    ],
+    "conditions": ["No debugger connection or flashing is authorised."],
+    "hardware_verified": false
+  }
+}

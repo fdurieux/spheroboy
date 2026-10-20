@@ -14,6 +14,7 @@ The project is in hardware discovery. The MCU is confirmed as an nRF52832-QFAA w
 - [Front-side components](docs/hardware/front-side-components.md): identified chips, connectors, controls, and unresolved parts.
 - [Annotated PCB pad reference](docs/hardware/pad-reference.md): candidate GND, supply, and SWD points with pending measurements.
 - [Decisions](docs/decisions/README.md): accepted choices and their reasons.
+- [CHAP decision recorder](docs/chap/README.md): local human review desk, evidence exports and backups.
 - [Backlog](backlog/README.md): actionable work and acceptance criteria.
 - [Project notebook template](docs/notion-notebook.md): a starting page to import into Notion.
 - [Publication checks](docs/publication-checks.md): evidence provenance and metadata checks required before public pushes.
