@@ -18,3 +18,7 @@ firmware/.pio/
 # Large or sensitive local hardware data; commit metadata separately
 captures/raw/
 captures/firmware-dumps/
+
+# CHAP local runtime, review capabilities and unreviewed evidence
+.venv-chap/
+.chap/

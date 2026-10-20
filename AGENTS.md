@@ -8,3 +8,10 @@
 - Preserve the imported transcripts and archives. Add corrections to the brief or hardware records with source links.
 - Hardware measurements and debugger access need a local operator. Do not report them as performed in the cloud.
 - Before proposing flash, recovery, erase, or other irreversible board changes, establish the target identity and preservation requirements. Earlier willingness to replace firmware in a chat is not evidence that the current device or procedure has been approved.
+
+## CHAP decision recording
+
+- Read `docs/chap/README.md` when preparing human decisions. Submit evidence-bound proposals; leave them pending until the owner explicitly reviews them.
+- Never use the reviewer capability or drive interactive human approval. Do not infer approval from silence, task completion, old conversations or a request to set up tooling.
+- CHAP review tasks do not replace Backlog task status. Accepted technical choices still belong in `docs/decisions/`, linked to CHAP evidence. Human approval does not establish hardware verification.
+- Do not commit `.chap/`, databases, capability files or unreviewed exports. Review the entire exported workspace before public publication.

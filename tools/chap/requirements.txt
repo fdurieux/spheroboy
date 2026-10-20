@@ -1,0 +1,1 @@
+chap-coordinator==0.3.2 --hash=sha256:97a1cc456b66746bba0d30201860d3440296b30f4cabf002997ba763b2bac6c4
